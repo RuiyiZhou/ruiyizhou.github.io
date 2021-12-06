@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Referrals"
 date:   2021-12-02 12:28:30 -0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
+# [Plastiq](http://plastiq.com/invite/524018)
+You can earn rewards for sharing Plastiq with your network. When businesses sign up with your unique link and make a payment (or payments) totaling $2,500 within 30 days of sign-up, you both receive a Fee-Free Dollar bonus: 1,000 FFDs for your referral and 2,500 FFDs for you!
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
